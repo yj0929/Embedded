@@ -9,3 +9,4 @@
 ![jetson](https://user-images.githubusercontent.com/105426580/174945155-79f7bf33-6a0c-4a63-8774-4ee307b752d1.png)
 ---
 > ### 노드레드
+![노드](https://user-images.githubusercontent.com/105426580/174947028-57c10dbd-2546-470e-8ee4-732e645c515e.png)
