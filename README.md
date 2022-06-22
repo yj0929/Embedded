@@ -10,4 +10,6 @@
 ---
 > ### 노드레드
 ---
+![노드1](https://user-images.githubusercontent.com/105426580/174947441-82d75959-ebf2-4032-86d6-16216a781a8d.png)
+
 ![노드](https://user-images.githubusercontent.com/105426580/174947028-57c10dbd-2546-470e-8ee4-732e645c515e.png)
